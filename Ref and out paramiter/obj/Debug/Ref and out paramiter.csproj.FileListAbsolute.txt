@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Ref and out paramiter\Ref and out paramiter\bin\Debug\Ref and out paramiter.exe.config
+C:\Users\Asus\source\repos\Ref and out paramiter\Ref and out paramiter\bin\Debug\Ref and out paramiter.exe
+C:\Users\Asus\source\repos\Ref and out paramiter\Ref and out paramiter\bin\Debug\Ref and out paramiter.pdb
+C:\Users\Asus\source\repos\Ref and out paramiter\Ref and out paramiter\obj\Debug\Ref and out paramiter.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Ref and out paramiter\Ref and out paramiter\obj\Debug\Ref and out paramiter.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Ref and out paramiter\Ref and out paramiter\obj\Debug\Ref and out paramiter.exe
+C:\Users\Asus\source\repos\Ref and out paramiter\Ref and out paramiter\obj\Debug\Ref and out paramiter.pdb
